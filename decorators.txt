@@ -1,0 +1,4 @@
+ALL REFERENCE LINKS AND RESOURCES FOR UNDERSTANDING CONCEPT OF DECORATORS:
+>> https://gist.github.com/Zearin/2f40b7b9cfc51132851a
+>> https://code.activestate.com/recipes/577283-decorator-to-expose-local-variables-of-a-function-/
+>> https://stackoverflow.com/questions/12435765/can-a-decorated-function-access-variables-of-the-decorator#:~:text=But%20the%20function%20actually%20being,get%20variables%20from%20calling%20scopes.
