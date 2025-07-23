@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rdeveloper21
+- 👋 Hi, I’m Rutuj
 This is a personal repository, with everyday code snippets and other stuff.
 - 👀 I’m interested in python programming and more.
 - 💞️ I’m looking to collaborate on new coding style and absolutely anything.
